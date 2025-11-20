@@ -1,0 +1,16 @@
+# Proxy list - one per line
+# Format: ip:port:username:password  or just  ip:port for no auth
+#
+# Get residential proxies from:
+# - Bright Data (expensive but reliable)
+# - Oxylabs
+# - Smartproxy
+# - IPRoyal
+#
+# Datacenter proxies will get you banned faster but are cheaper for testing
+
+# Example format:
+# 123.45.67.89:8080:user123:pass456
+# 98.76.54.32:3128
+
+# Add your proxies below:
