@@ -8,5 +8,5 @@ flask==3.0.0
 flask-cors==4.0.0
 lxml==4.9.3
 wheel
-fake-useragent==1.4.0  # Alt for manual UA lists
-2captcha-python==1.2.0  # Automated CAPTCHA solving
+fake-useragent==1.4.0  # Alternative to manual UA lists
+2captcha-python==1.2.0  # If you want automated CAPTCHA solving
