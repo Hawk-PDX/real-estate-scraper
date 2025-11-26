@@ -1,5 +1,7 @@
 # Real Estate Scraper
 
+For educational purposes:
+
 Scraping real estate sites turned out way harder than I expected. After 8 years in real estate, I knew exactly what data I needed - price trends, days on market, comparables. The challenge was getting past Cloudflare, CAPTCHAs, and all the anti-bot stuff these sites throw at you.
 
 ## What This Does
